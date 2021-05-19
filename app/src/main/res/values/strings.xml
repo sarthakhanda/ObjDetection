@@ -1,0 +1,8 @@
+<resources>
+    <string name="detect_it">DetectIt</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="threads">Threads</string>
+    <string name="inference_time">Inference Time</string>
+    <string name="crop">Crop</string>
+    <string name="frame">Frame</string>
+</resources>
