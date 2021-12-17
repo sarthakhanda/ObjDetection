@@ -1,6 +1,3 @@
-/**
- * Automatically generated file. DO NOT MODIFY
- */
 package org.tensorflow.lite.examples.detection.tflite;
 
 public final class BuildConfig {
